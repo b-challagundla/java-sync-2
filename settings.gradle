@@ -10,5 +10,9 @@ plugins {
     id 'org.gradle.toolchains.foojay-resolver-convention' version '1.0.0'
 }
 
+<<<<<<< HEAD
 rootProject.name = 'Assignment6'
+=======
+rootProject.name = 'th5'
+>>>>>>> 3c209c62d358c13b23e8964a9dc837be31b1c294
 include('app')

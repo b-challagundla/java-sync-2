@@ -34,7 +34,11 @@ java {
 
 application {
     // Define the main class for the application.
+<<<<<<< HEAD
     mainClass = 'assignment6.App'
+=======
+    mainClass = 'java.threads.App'
+>>>>>>> 3c209c62d358c13b23e8964a9dc837be31b1c294
 }
 
 tasks.named('test') {
